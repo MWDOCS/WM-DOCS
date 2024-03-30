@@ -1,0 +1,20 @@
+:root {
+  --banner-text: #144a74;
+  --redirect-primary-color: var(--theme-color) !important;
+  --redirect-primary-hover-color: var(--theme-color-dark) !important;
+}
+
+html[data-theme="dark"] {
+  --banner-text: #2f90b9;
+}
+
+.page-cover {
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: calc(100%);
+  max-height: 25vh;
+}
+
+.vp-sidebar-links {
+  font-family: var(--font-family-heading);
+}
