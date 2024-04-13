@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://warships-mobile-2.netfox.wiki/",
+  hostname: "https://wm2.netfox.wiki/",
   favicon: "favicon.ico",
   headerDepth: 3,
   navTitle: false,
