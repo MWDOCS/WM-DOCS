@@ -1,5 +1,5 @@
 ---
-cover: https://img.mwdocs.info/20240412/Carrier_2_Final.1ov7twejia.webp
+cover: https://statics.netfox.wiki/20240412/Carrier_2_Final.1ov7twejia.webp
 ---
 
 :::info 注意：网站内容会越来越丰富，点击左侧边栏即可跳转至相关内容（移动设备点击左上角图标可展开边栏）
