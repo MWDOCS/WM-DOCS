@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://warships-mobile-2.netfox.wiki/sitemap.xml
+Sitemap: https://wm2.netfox.wiki/sitemap.xml
